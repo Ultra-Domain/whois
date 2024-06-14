@@ -11,8 +11,7 @@ PHP 5.6～
 
 このメソッドはPHPからSOCKETを利用してサーバーへ接続するメソッドである fsockopen を使用しています。
 ## 使い方
-Karadenでテナントを作成し、プロジェクト毎に発行できるトークンを発行する必要があります。<br />
-作成したテナントID（テナントIDはテナント選択画面で表示されています）は、`Config::$tenantId`に、発行したトークンは`Config::$apiKey`にそれぞれ設定します。
+
 ```php
 require_once domain.php
 $domain_name = 'https://domain.com'; // OR 'domain.com' only
