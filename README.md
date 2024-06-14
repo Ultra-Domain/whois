@@ -23,5 +23,5 @@ echo whois($domain_name)
 何度も同じような現象が起こる際は、サーバーの接続の調整もしくは`HTTPクライアントの明示的な指定`からHTTPクライアントの指定及びタイムアウトの時間を増やして、再度実行してください。
 
 ### 使用サイト
-ウルトラドメイン [www.ultra-domain.com](https://www.ultra-domain.jp)<br>
+ウルトラドメイン [www.ultra-domain.jp](https://www.ultra-domain.jp)<br>
 WHOIS検索 | ウルトラドメイン　[whois.php](https://www.ultra-domain.jp/domain/whois.php)
